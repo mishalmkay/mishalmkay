@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mishalmkay
-- 🌱 I’m currently learning basic python
-- 📫 How to reach me = @mishalcry on instagram
+- 👋 Hi, I’m @mishalmanzoor
+- 🌱 I’m currently learning dataScience & Python 
+- 📫 How to reach me = mishalmkay@gmail.com
+ 
 -
 
 <!---

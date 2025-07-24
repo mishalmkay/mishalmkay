@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mishalmanzoor
-- 🌱 I’m currently learning dataScience & Python 
 - 📫 How to reach me = mishalmkay@gmail.com
  
 
